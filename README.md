@@ -1,3 +1,3 @@
 # hello-world
 Short description
-A bit about cats
+A bit about nothing
