@@ -1,3 +1,3 @@
 # hello-world
 Short description
-A bit about myself
+A bit about cats
